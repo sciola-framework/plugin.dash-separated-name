@@ -4,7 +4,7 @@
  *
  * @version 1.0.0
  */
-namespace Sciola;
+namespace Sciola\Plugin;
 
 class MyClass
 {
