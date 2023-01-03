@@ -1,5 +1,7 @@
 {
   "name": "@sciola/plugin-name",
+  "version": "1.0.0",
+  "class": "ClassName.php",
   "dependencies": {
 
   },
